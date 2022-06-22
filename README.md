@@ -11,6 +11,6 @@ download yolov3 pretrained [model](https://drive.google.com/file/d/1jNen-em-3JG1
 
 ![](result/cv2_heatmap.jpg )
 
-<h1>Heatmap imposed with image</h1>
+<h1>Heatmap imposed with video frame</h1>
 
 ![](result/cv2_imposed.jpg )
