@@ -1,5 +1,5 @@
-# Generate heatmap on customer behaviour in retail shops
-Generating heat map on customers behavior in retail shops using opencv and yolov3
+# Generating heatmap on customer behaviour in retail shops
+Generating heatmap on customers behavior in retail shops using opencv and yolov3
 
 download yolov3 pretrained [model](https://drive.google.com/file/d/1jNen-em-3JG1uO9iwoBep6xpTAt6se54/view?usp=sharing).
 
